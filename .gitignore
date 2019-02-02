@@ -1,0 +1,10 @@
+# Log files 
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies 
+/node_modules
+
+# IDE Config
+.vscode
