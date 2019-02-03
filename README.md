@@ -1,7 +1,7 @@
 <h1 align="center">clean-logger</h1>
 <p align="center">🌈 My personal logger module for clean console messages.</p>
 <div align="center">
-  <img src="https://i.imgur.com/LDZhXtg.png" width="50%" />
+  <img src="https://i.imgur.com/luA9ko3.png" width="50%" />
 </div>
 
 ## Installation 
