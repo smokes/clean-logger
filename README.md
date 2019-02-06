@@ -10,7 +10,7 @@ $ npm install clean-logger
 ```
 ## How to use?
 ```js
-const log = require("clean-logs");
+const log = require("clean-logger");
 
 log("a simple log messge");
 
